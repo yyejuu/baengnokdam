@@ -45,12 +45,11 @@ main header h1 {
 }
 main header h1 img {
   width: 120px;
-  margin-left: 15px;
 }
 main header h1 span {
   display: block;
   font-family: 'Shilla_CultureB-Bold';
-  font-size: 30px;
+  font-size: 24px; text-align: center;
 }
 main header h3 {
   font-family: 'GowunBatang-Regular';
@@ -181,7 +180,7 @@ main section article:nth-child(4):hover .inner .txt h2::after {
 
 main section article .inner .txt p {
   font-family: 'GowunBatang-Regular';
-  font-size: 15px;
+  font-size: 1em;
   color: #ffffff;
 }
 
@@ -225,13 +224,13 @@ main aside .txt {
 }
 main aside .txt h3 {
   font-family: 'Shilla_CultureB-Bold';
-  font-size: 120px;
+  font-size: 4.47em;
   color: #ddd;
   margin-bottom: 20px;
 }
 main aside .txt p {
   font-family: 'GowunBatang-Regular';
-  font-size: 18px; font-weight: 500;
+  font-size: 1em; font-weight: 500;
   color: #bebebe;
   margin-bottom: 60px;
 }
